@@ -1,0 +1,4 @@
+# Constants declaration
+
+USER = ''
+PASSWORD = ''
